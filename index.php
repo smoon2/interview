@@ -11,7 +11,7 @@
     //Default route
     $f3->route('GET /', function($f3) {
                echo Template::instance()->render('home.html');
-			   print_r("hi");
+			  
     });
     
     $f3->run();
