@@ -116,7 +116,7 @@
 											<header class="major">
 												<h3>RAIN INCUBATOR </h3>
 											</header>
-											<p>Created	a	website	from	the	ground	up	for	a	biotech	startup	in	purpose	of increasing	the	brand	recogniion,	using	WordPress. Worked	alongside	RAIN’s	board	and	a	secondary	team	working	on	social	media to	purchase	a	domain,	select	a	hosting	site,	and	design	a	functioning, maintainable	website	with	customized	plug	ins	and	features.
+											<p>Created	a	website	from	the	ground	up	for	a	biotech	startup	in	purpose	of increasing	the	brand	recognition,	using	WordPress. Worked	alongside	RAIN’s	board	and	a	secondary	team	working	on	social	media to	purchase	a	domain,	select	a	hosting	site,	and	design	a	functioning, maintainable	website	with	customized	plug	ins	and	features.
 </p>
 											<ul class="actions">
 												<li><a href="https://www.rainincubator.org/" class="button">Learn more</a></li>
@@ -190,7 +190,7 @@
 								<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>&copy; Sonie</li><li></li>
 							</ul>
 						</div>
 					</footer>
