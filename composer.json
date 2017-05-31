@@ -1,0 +1,10 @@
+{
+    "name": "Sonie moon",
+    "email":"smoon2@uw.edu",
+    "phone number":"2533976393",
+
+    "require":{
+        "bcosca/fatfree-core":"dev-master"
+    }
+
+}
